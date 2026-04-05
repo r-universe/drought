@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CompoundEvents"]
 	path = CompoundEvents
-	url = https://github.com/cran/CompoundEvents
+	url = https://github.com/drought/compoundevents
 [submodule "drought"]
 	path = drought
 	url = https://github.com/cran/drought
